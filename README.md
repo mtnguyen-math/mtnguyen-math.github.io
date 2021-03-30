@@ -1,2 +1,2 @@
-# darknmt.github.io
+# mtnguyen-math.github.io
 Personal Website
